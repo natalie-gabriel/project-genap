@@ -51,6 +51,7 @@ Repository ini berisi source code untuk Proyek Akhir Mata Kuliah Rekayasa Web. A
 
     Sesuaikan konfigurasi database:
 
+    ```bash
     DB_DATABASE=crud_api_b
     DB_USERNAME=root
     DB_PASSWORD=
