@@ -47,10 +47,6 @@ Repository ini berisi source code untuk Proyek Akhir Mata Kuliah Rekayasa Web. A
    composer install
    
 3. **Install Dependencies**
-   Copy file .env.example menjadi .env
-
-    Sesuaikan konfigurasi database:
-
     ```bash
     DB_DATABASE=crud_api_b
     DB_USERNAME=root
